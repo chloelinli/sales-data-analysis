@@ -1,5 +1,0 @@
-projects/art_facial_recognition/final/training_images.csv filter=lfs diff=lfs merge=lfs -text
-projects/art_facial_recognition/final/testingE_images.csv filter=lfs diff=lfs merge=lfs -text
-projects/art_facial_recognition/final/testingH_images.csv filter=lfs diff=lfs merge=lfs -text
-projects/art_facial_recognition/final/testingM_images.csv filter=lfs diff=lfs merge=lfs -text
-projects/art_facial_recognition/final/eigen/V_values.csv filter=lfs diff=lfs merge=lfs -text

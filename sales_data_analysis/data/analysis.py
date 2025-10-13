@@ -6,7 +6,7 @@ from plotly.subplots import make_subplots
 
 
 def main():
-    path = 'projects/sales_data_analysis/data'
+    path = 'sales_data_analysis/data'
     sales_data = pd.read_csv(path+'/Sales_Transaction_reformatted.csv')
 
     # preprocess data - unnecessary due to no real action

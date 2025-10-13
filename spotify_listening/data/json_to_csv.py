@@ -3,8 +3,8 @@ import csv
 import json
 
 # streaming history
-json_data = 'projects\spotify_listening\data\StreamingHistory0.json'
-csv_conv = 'projects\spotify_listening\data\one_year.csv'
+json_data = 'spotify_listening\data\StreamingHistory0.json'
+csv_conv = 'spotify_listening\data\one_year.csv'
 
 input = open(json_data, encoding='utf8')
 output = open(csv_conv, 'w', encoding='utf8')
